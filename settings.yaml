@@ -1,0 +1,4 @@
+# url: "file:///Users/shiho/teracode/seiten-formatter-2025-05-06/test.html"  # テスト用HTMLファイル
+# url: "http://www.yamadera.info/seiten/a/shokyo.htm"  # 山寺ホームページの聖典ページのURL
+url: "http://www.yamadera.info/seiten/a/shokyo_j.htm"  # 山寺ホームページの聖典ページのURL
+output_file: "/Users/shiho/teracode/seiten-formatter-2025-05-06/output.txt"  # 出力ファイル名

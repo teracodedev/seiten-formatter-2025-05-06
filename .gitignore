@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# 浄土真宗晴天フォーマッター
+output.txt
+
